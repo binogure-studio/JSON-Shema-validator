@@ -33,4 +33,4 @@ More about schemas and validation here: https://json-schema.org
 # Special thanks
 Kael the bear, Pwa for his moral support (but not kael), Viraax, Teratak, Weaslia
 
-# Made by [https://www.binogure-studio.com](Binogure Studio)
+## Made by [Binogure Studio](https://www.binogure-studio.com)
