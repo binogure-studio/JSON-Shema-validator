@@ -27,3 +27,8 @@ func _data_loaded(error, data):
 
 # Links
 More about schemas and validation here: https://json-schema.org
+
+# ![License](./LICENSE)
+
+# Special thanks
+Kael the bear, Pwa for his moral support (but not kael), Viraax, Teratak, Weaslia
