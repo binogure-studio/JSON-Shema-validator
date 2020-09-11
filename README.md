@@ -1,7 +1,10 @@
 # JSON-Schema-validator
-This is script for Godot Engine, that validate JSON files by JSON Schema.
 
-# How to use
+This is script for Godot Engine 2.x, that validate JSON files by JSON Schema. 
+
+## ![License file](./LICENSE)
+
+## How to use
 ```gdscript
 const JSON_FILE = preload('PATH TO/json-file.gd')
 
@@ -25,12 +28,10 @@ func _data_loaded(error, data):
 
 ```
 
-# Links
+## Links
 More about schemas and validation here: https://json-schema.org
 
-# ![License](./LICENSE)
-
-# Special thanks
+## Special thanks
 Kael the bear, Pwa for his moral support (but not kael), Viraax, Teratak, Weaslia
 
-## Made by [Binogure Studio](https://www.binogure-studio.com)
+### Made by [Binogure Studio](https://www.binogure-studio.com)
